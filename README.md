@@ -1,2 +1,3 @@
 # lingdata
-for lingdata and python(?)
+## Elena Agroskina
+**бардаак**
